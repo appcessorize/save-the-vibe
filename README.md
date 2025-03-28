@@ -2,9 +2,9 @@
 
 # Save The Vibe
 
-![Save The Vibe UI](img/problem.png)
+Vibe coders are running into a problem we've all faced:
 
-More people are coding than ever.
+![Save The Vibe UI](img/problem.png)
 
 Git is complicated
 
@@ -14,11 +14,11 @@ Git is complicated
 
 ## Why We Made It
 
-Coding is changing. AI tools are bringing more people to code every day. Vibe coding is great -more and more people can solve problems and be creative. These new tools make mistakes. If you're not familiar with the intracies of git this can ruin your work,
+Coding is changing. AI tools are bringing more people to code every day. Vibe coding is great -more and more people can solve problems and be creative. However these new tools can make mistakes. If you're not familiar with the intracies of git this can ruin your work,
 
-Git and GitHub are great but are quite intimidating.
+Git and GitHub are great but an be intimidating.
 
-Save the vibe abstracts away the terminal and typijng in commands in favor of a metaphor everyone knows
+Save the vibe abstracts away the terminal and typing in commands in favor of a metaphor everyone knows
 
 ## The Save Game Screen
 
@@ -32,8 +32,6 @@ Goals
 No commands to learn. No confusion. No stress.
 
 Just save your work, keep your vibe, and code with confidence.
-
-Perfect for students, hobbyists, and anyone who wants to create without the fear of making breaking changes.
 
 ![Save The Vibe UI](img/memorycard.png)
 
