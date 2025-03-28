@@ -1,0 +1,55 @@
+{
+  "name": "git-savegame-js",
+  "displayName": "Git SaveGame JS",
+  "description": "PlayStation-inspired Git SaveGame for VSCode",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "git-savegame-js.openSaveMenu",
+        "title": "PS SaveGame: Open Save Menu"
+      },
+      {
+        "command": "git-savegame-js.quickSave",
+        "title": "PS SaveGame: Quick Save"
+      }
+    ],
+    "configuration": {
+      "title": "Git SaveGame",
+      "properties": {
+        "git-savegame-js.autoSaveEnabled": {
+          "type": "boolean",
+          "default": true,
+          "description": "Automatically create a save point when files are saved"
+        },
+        "git-savegame-js.maxSaveSlots": {
+          "type": "number",
+          "default": 6,
+          "description": "Maximum number of save slots to display"
+        }
+      }
+    },
+    "keybindings": [
+      {
+        "command": "git-savegame-js.openSaveMenu",
+        "key": "ctrl+alt+s",
+        "mac": "cmd+alt+s"
+      },
+      {
+        "command": "git-savegame-js.quickSave",
+        "key": "ctrl+alt+q",
+        "mac": "cmd+alt+q"
+      }
+    ]
+  }
+}
