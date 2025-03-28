@@ -4,13 +4,13 @@
 
 Vibe coders are running into a problem we've all faced:
 
-![Save The Vibe UI](img/problem.png)
+![Save The Vibe UI](img/problem.jpg)
 
 Git is complicated
 
 **Save The Vibe** is like adding a "save game" to VSCode
 
-![Save Game](img/savegame.png)
+![Save Game](img/savegame.jpg)
 
 ## Why We Made It
 
@@ -33,7 +33,7 @@ No commands to learn. No confusion. No stress.
 
 Just save your work, keep your vibe, and code with confidence.
 
-![Save The Vibe UI](img/memorycard.png)
+![Save The Vibe UI](img/memorycard.jpg)
 
 ## Requirements
 
