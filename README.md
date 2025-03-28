@@ -3,11 +3,14 @@
 # Save The Vibe
 
 ![Save The Vibe UI](img/problem.png)
-<img src="![images/logo.png](https://github.com/appcessorize/save-the-vibe/blob/main/img/problem.png?raw=true)" alt="Save The Vibe Logo" width="300" />
 
-**Save The Vibe** turns code saving from a chore into a joy.
+More people are coding than ever.
 
-It's like adding a "save game" button to your coding – simple, fast, and fun.
+Git is complicated
+
+**Save The Vibe** is like adding a "save game" to VSCode
+
+![Save Game](img/savegame.png)
 
 ## Why We Made It
 
@@ -17,7 +20,7 @@ Git and GitHub are great but are quite intimidating.
 
 Save the vibe abstracts away the terminal and typijng in commands in favor of a metaphor everyone knows
 
-##The Save Game Screen
+## The Save Game Screen
 
 Goals
 
@@ -31,6 +34,8 @@ No commands to learn. No confusion. No stress.
 Just save your work, keep your vibe, and code with confidence.
 
 Perfect for students, hobbyists, and anyone who wants to create without the fear of making breaking changes.
+
+![Save The Vibe UI](img/memorycard.png)
 
 ## Requirements
 
