@@ -2,15 +2,24 @@
 
 # Save The Vibe
 
-**Save The Vibe** turns code saving from a chore into a joy. It's like adding a "save game" button to your coding – simple, fast, and fun.
+![Save The Vibe UI](img/problem.png)
+<img src="![images/logo.png](https://github.com/appcessorize/save-the-vibe/blob/main/img/problem.png?raw=true)" alt="Save The Vibe Logo" width="300" />
+
+**Save The Vibe** turns code saving from a chore into a joy.
+
+It's like adding a "save game" button to your coding – simple, fast, and fun.
 
 ## Why We Made It
 
-Coding is changing. AI tools are bringing more people to code every day. These new coders love the creative flow – what we call "vibe coding" – but hit a wall when they need to save their work.
+Coding is changing. AI tools are bringing more people to code every day. Vibe coding is great -more and more people can solve problems and be creative. These new tools make mistakes. If you're not familiar with the intracies of git this can ruin your work,
 
-Git and GitHub were built for pros, not for folks who just want to create without fear.
+Git and GitHub are great but are quite intimidating.
 
-Save The Vibe fixes this by:
+Save the vibe abstracts away the terminal and typijng in commands in favor of a metaphor everyone knows
+
+##The Save Game Screen
+
+Goals
 
 - Making saving dead simple – one click and you're done
 - Showing your saved work in a way that makes sense
@@ -21,68 +30,21 @@ No commands to learn. No confusion. No stress.
 
 Just save your work, keep your vibe, and code with confidence.
 
-Perfect for students, hobbyists, and anyone who wants to create without the fear of breaking things.
-
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+Perfect for students, hobbyists, and anyone who wants to create without the fear of making breaking changes.
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-- `myExtension.enable`: Enable/disable this extension.
-- `myExtension.thing`: Set to `blah` to do something.
+git
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Please add any bugs or feature requests in the issues tab. All feedback welcome
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+0.0.1 alpha release
 
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Coming soon
+We will add summaries of changes in readable text and search
 
 ---
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
-
-# save-the-vibe
